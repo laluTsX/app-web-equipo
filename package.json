@@ -1,0 +1,9 @@
+{
+  "name": "app-web-equipo",
+  "version": "0.1.0",
+  "description": "Aplicacion web desarrollada en equipo",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
